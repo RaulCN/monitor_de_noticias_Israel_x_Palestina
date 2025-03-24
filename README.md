@@ -1,5 +1,3 @@
-# monitor_de_not-cias_Israel_x_Palestina
-
 # Monitor do Conflito Israel-Palestina
 
 ## 📰 Visão além das narrativas dominantes
