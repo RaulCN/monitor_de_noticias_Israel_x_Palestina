@@ -4,8 +4,6 @@
 
 Este projeto nasceu da necessidade de oferecer uma visão mais equilibrada e abrangente do conflito Israel-Palestina, indo além das narrativas frequentemente unilaterais apresentadas pela mídia tradicional. Através da coleta e análise automática de notícias em múltiplos idiomas, buscamos democratizar o acesso à informação e fomentar o pensamento crítico sobre este complexo conflito geopolítico.
 
-![Monitor do Conflito](https://i.imgur.com/placeholder.jpg)
-
 ## 🔍 Fundamentação
 
 O conflito Israel-Palestina é frequentemente retratado de maneira simplificada e enviesada pelos grandes veículos de comunicação, que tendem a privilegiar determinadas perspectivas em detrimento de outras. Este desequilíbrio na cobertura midiática dificulta a compreensão holística da situação e limita o debate público informado.
