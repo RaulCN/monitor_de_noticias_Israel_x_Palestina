@@ -45,7 +45,6 @@ Exemplo de resumo (23/03/2025):
 - **DuckDuckGo Search**: API para busca de notícias sem filtros bolha
 - **LangDetect**: Verificação de idioma dos conteúdos
 - **Gemma**: Modelo de IA para processamento e resumo de textos
-- **GitHub Actions**: Automação do pipeline diário
 
 ## 💻 Como utilizar
 
@@ -53,7 +52,7 @@ Exemplo de resumo (23/03/2025):
 
 - Python 3.8+
 - Acesso a internet para busca de notícias
-- GPU (recomendado) para processamento eficiente do modelo de IA
+
 
 ### Instalação
 
@@ -71,7 +70,7 @@ pip install -r requirements.txt
 
 ### Configuração
 
-Edite as configurações no arquivo `monitor_de_notícias_Israel_Palestina_3.py`:
+Edite as configurações no arquivo `monitor_de_notícias_Israel_Palestina.py`:
 
 ```python
 # Configurações
@@ -82,7 +81,7 @@ num_results_per_language = 1  # Aumente para mais fontes por idioma
 ### Execução
 
 ```bash
-python monitor_de_notícias_Israel_Palestina_3.py
+python monitor_de_notícias_Israel_Palestina.py
 ```
 
 ## 🤝 Contribuindo
