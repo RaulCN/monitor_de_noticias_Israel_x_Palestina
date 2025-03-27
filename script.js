@@ -7,6 +7,7 @@ const RELATORIOS_DISPONIVEIS = [
   "25-03-2025",
   "24-03-2025",
   "23-03-2025"
+  "27-03-2025",
 ];
 
 // Inicialização quando o DOM estiver pronto
