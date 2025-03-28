@@ -4,10 +4,11 @@ const BASE_RAW_URL = "https://raw.githubusercontent.com/RaulCN/monitor_de_notici
 
 // Lista de relatórios disponíveis (pode ser obtida dinamicamente no futuro)
 const RELATORIOS_DISPONIVEIS = [
+  "27-03-2025",
+  "26-03-2025",
   "25-03-2025",
   "24-03-2025",
   "23-03-2025"
-  "27-03-2025",
 ];
 
 // Inicialização quando o DOM estiver pronto
